@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: black;
     font-family: system-ui, sans-serif;
     color: white;
 }
@@ -15,7 +15,7 @@ body {
     margin-right: auto;
     border: 1px solid lime;
     border-radius: 20px;
-    box-shadow: 20px 20px 30px lime;
+    box-shadow: 1px 1px 100px lime;
 }
 
 .profile-image {
